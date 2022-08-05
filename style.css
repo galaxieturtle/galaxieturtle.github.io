@@ -1,0 +1,37 @@
+body{
+	background-color:#dcd0ff;
+	color: black;
+	padding: 10px;
+	text-align: center;
+}
+
+
+#reviews {
+	clear: both;
+}
+
+#name {
+	text-decoration: underline;
+}
+
+	
+	
+	
+h1 {
+	font-family: DejaVu Sans Mono, monospace;
+	font-style: italic;
+	color: white;
+	text-decoration: underline;
+}
+
+p {
+	font-family: DejaVu Sans Mono, monospace;
+	color: white;
+}
+
+body {
+	
+	border: 15px solid white;
+	padding: 50px;
+	margin: 20px;
+}
